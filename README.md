@@ -9,6 +9,8 @@ npx tailwindcss init
 
 //Add Tailwind directives to import base, components and the utilities in the styles.css file.
 
-npx tailwindcss -i ./css/styles.css -o ./dist/output.css --watch   //This will create a distribution folder with output.css file.
+npx tailwindcss -i ./css/styles.css -o ./dist/output.css --watch   
+
+//This will create a distribution folder with output.css file.
 
 
